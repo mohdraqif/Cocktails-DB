@@ -23,10 +23,10 @@ Variables
   --mainGrey: #ececec;
   --darkGrey: #afafaf;
   --mainRed: #bd0303;
-  --mainTransition: all 0.3s linear;
+  --mainTransition: all 0.2s ease-in-out;
   --mainSpacing: 0.3rem;
-  --lightShadow: 2px 5px 3px 0px rgba(0, 0, 0, 0.5);
-  --darkShadow: 4px 10px 5px 0px rgba(0, 0, 0, 0.5);
+  --lightShadow: 10px 10px 10px -10px rgba(0,0,0,0.75);
+  --darkShadow: 10px 10px 10px -5px rgba(0,0,0,0.75);
   --mainBorderRadius: 0.25rem;
   --smallWidth: 70vw;
   --maxWidth: 30rem;
